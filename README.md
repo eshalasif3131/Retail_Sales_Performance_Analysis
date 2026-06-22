@@ -14,6 +14,7 @@ The dashboard provides executives with a high-level view of sales performance, p
 ## Executive Summary
 
 ![Executive Summary](executive_summary.png)
+This executive summary gives a quick overview of the main findings from the sales analysis, including the key insights and recommendations based on the data.
 
 ## Business Questions Answered
 

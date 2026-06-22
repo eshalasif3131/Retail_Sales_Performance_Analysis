@@ -9,6 +9,7 @@ This project analyzes retail sales data using Microsoft Excel to identify sales 
 ## Dashboard
 
 ![Dashboard](dashboard.png)
+The dashboard provides executives with a high-level view of sales performance, profitability, top-performing categories, regions, customer segments, and states through interactive PivotTables and PivotCharts.
 
 ## Executive Summary
 
